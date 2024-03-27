@@ -1,0 +1,10 @@
+---
+title: "JSC370 Final Project"
+author: "Jing Yu"
+output: 
+    html_document:
+        toc: TRUE   # Table content at front of the page
+        toc_float: TRUE   # Floating table content on the left
+---
+
+This is my JSC370 Final Project website.
